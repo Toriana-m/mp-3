@@ -18,7 +18,7 @@ export default function Home(){
     return (
         <main id="main">
             <Picts>
-                <HomeImg src="../../../public/Toriana.png" alt="Toriana Mullins"/>
+                <HomeImg src="../../../public/Toriana.JPG" alt="Toriana Mullins"/>
                 <p>
                     My name is Toriana Mullins, I am a student at Boston University studying Computer Science and
                     Chinese Language.
